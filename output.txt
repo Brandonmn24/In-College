@@ -1,0 +1,42 @@
+Welcome to InCollege!
+1. Login
+2. Register
+Please enter username:
+Please enter password:
+Registration successful
+Welcome, week6user!
+1. Search for a job
+2. Find someone you know
+3. Learn a new skill
+4. Create/Edit My Profile
+5. View My Profile
+6. View My Pending Connection Requests
+7. View My Network
+0. Log out
+9. Exit program
+--- Job Search/Internship Menu ---
+1. Post a Job/Internship
+2. Browse Jobs/Internships
+3. Back to Main Menu
+--- Post a New Job/Internship ---
+Enter Job Title:
+Enter Description (max 200 chars):
+Enter Employer Name:
+Enter Location:
+Enter Salary (optional, enter 'NONE' to skip):
+Job posted successfully!
+----------------------------------
+--- Job Search/Internship Menu ---
+1. Post a Job/Internship
+2. Browse Jobs/Internships
+3. Back to Main Menu
+1. Search for a job
+2. Find someone you know
+3. Learn a new skill
+4. Create/Edit My Profile
+5. View My Profile
+6. View My Pending Connection Requests
+7. View My Network
+0. Log out
+9. Exit program
+Program terminated.

@@ -1,0 +1,5 @@
+Scrum master: @sadbek Nematov
+Dev 1: Georgia Ng Wai
+Dev 2: Nhan Ngo
+Tester 1: Anh Nguyen
+Tester 2: Brandon Nguyen
